@@ -1,11 +1,12 @@
-# Website Made by Flutter(Initial Stage)
+# Developed Baisc Website using  Flutter.
 
 A new Flutter project.
 
 ## Getting Started
-Implemented Dark Mode,
-Used Firebase for hosting,
-used flutter web 
+I have Created a Basic Website using FLutter for web. Implemented Dark Mode in FLutter,Used Firebase For Hosting.
+You can check the website at https://deep-codes.firebaseapp.com/#/
+
+
 
 This project is a starting point for a Flutter application.
 
