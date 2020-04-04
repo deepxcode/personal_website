@@ -1,8 +1,11 @@
-# deeppatel
+# Website Made by Flutter(Initial Stage)
 
 A new Flutter project.
 
 ## Getting Started
+Implemented Dark Mode,
+Used Firebase for hosting,
+used flutter web 
 
 This project is a starting point for a Flutter application.
 
