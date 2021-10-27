@@ -1,4 +1,4 @@
-# Developed Baisc Website using  Flutter.
+# Developed Basic Website using  Flutter.
 
 A new Flutter project.
 
